@@ -1,0 +1,4 @@
+-keep class com.videoclipper.** { *; }
+-keep class com.arthenica.ffmpegkit.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**

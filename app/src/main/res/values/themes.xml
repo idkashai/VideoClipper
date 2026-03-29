@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.VideoClipper" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF4444</item>
+        <item name="colorPrimaryVariant">#CC0000</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#FF4444</item>
+        <item name="android:windowBackground">#0F0F0F</item>
+        <item name="android:statusBarColor">#0F0F0F</item>
+        <item name="android:navigationBarColor">#0F0F0F</item>
+    </style>
+</resources>
